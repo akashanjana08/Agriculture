@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Agriculture</string>
+    <string name="title_activity_crop_list">Crop List</string>
+</resources>
